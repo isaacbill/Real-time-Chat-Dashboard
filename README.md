@@ -30,6 +30,8 @@ npm install
 npm run dev
 App will open on: http://localhost:5173
 
+---
+
  **Real-Time Interaction Steps**
 **Open Two Tabs:**
 
